@@ -1,9 +1,8 @@
-gradio 
-openai 
-gtts 
-pydub 
-numpy 
-requests 
+flask  
 whisper 
 groq 
-openai-whisper
+gtts 
+pydub 
+scipy 
+numpy 
+language_tool_python
