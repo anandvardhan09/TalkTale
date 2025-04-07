@@ -1,5 +1,7 @@
+import gradio as gr
 import whisper
 from gtts import gTTS
+import base64
 from groq import Groq
 from tempfile import NamedTemporaryFile
 import os
